@@ -1,3 +1,4 @@
 hello codestates
 Git is Good.
 push test.
+pull test.
